@@ -1,0 +1,71 @@
+body{
+    background-image: url("aura.jpeg");
+    background-size: inherit;
+}
+
+h2.tengah{
+    text-align: center;
+    color: white;
+    text-align:center;
+}
+
+h1.pink{
+    color: white;
+    background-color: blueviolet;
+    text-align: center;
+}
+
+img.shadow{
+    width : 10%;
+    border-radius: 0%;
+    border : 3px purple;
+    padding 5px;
+}
+
+img.hover{
+    box-shadow: 10px 10px 5px palevioletred
+}
+
+p.center{
+    text-align: justify;
+    color: white;
+}
+p{text-indent: 50px:
+}
+
+p.satu{
+    text-align: justify;
+    color: white;
+}
+
+img{
+    width: 20%;
+    border-radius: 40%;
+    border: 3px solid purple;
+}
+
+img.shadow{
+    width : 10%;
+    border: 3px purple;
+    padding : 5px;
+}
+img.hover{
+    box-shadow: 10px 10px 5px palevioletred;
+}
+
+p.dua{
+    text-align: justify;
+    color: white;
+}
+p.tiga{
+    text-align: justify;
+    color: white;
+}
+p.empat{
+    text-align: justify;
+    color: white;
+}
+p.lima{
+    text-align: justify;
+    color: white;
+}

@@ -1,0 +1,36 @@
+.header{
+    width: 1280px;
+    position: fixed;
+}
+/* Kode CSS Navigator */
+ul{
+    list-style: none;
+    background: pink;
+    padding: 0px 0px;
+    margin: 
+}
+ul li{
+    position: 
+    height: 60px;
+    padding: 10px 8px;
+}
+ul li a{
+
+}
+
+ul li:hover ul.dropdown{
+    display: block;
+}
+/* kode css side bar */
+.column{
+    float: left;
+    padding: 0px 10px;
+}
+/* left column */
+.column.side{
+    margin
+    width: 250px;
+    height: 400px;
+    background color: pink;
+}
+
